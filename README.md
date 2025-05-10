@@ -1,5 +1,5 @@
 # Integrity Protector: Модуль защиты целостности скриптов
-
+```Ходаров Темур 10/05/2025```
 [![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
